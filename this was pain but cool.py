@@ -32,53 +32,15 @@ def pain():
                                                                                 print("Hello Worl",letter10, end ="\n")
                                                                                 if letter10 == "d":
                                                                                     print("Hello World !")
-                                                                                    print("Hello World!")
-                                                                                    print("Hello World!")
-                                                                                    print("Hello World!")
-                                                                                    print("Hello World!")
-                                                                                    print("Hello World!")
-                                                                                    print("Hello World!")
-                                                                                    print("Hello World!")
-                                                                                    print("Hello World!")
-                                                                                    print("Hello World!")
-                                                                                    print("Hello World!")
-                                                                                    print("Hello World!")
-                                                                                    print("Hello World!")
-                                                                                    print("Hello World!")
-                                                                                    print("Hello World!")
-                                                                                    print("Hello World!")
-                                                                                    print("Hello World!")
-                                                                                    print("Hello World!")
-                                                                                    print("Hello World!")
-                                                                                    print("Hello World!")
-                                                                                    print("Hello World!")
-                                                                                    print("Hello World!")
-                                                                                    print("Hello World!")
-                                                                                    print("Hello World!")
-                                                                                    print("Hello World!")
-                                                                                    print("Hello World!")
-                                                                                    print("Hello World!")
-                                                                                    print("Hello World!")
-                                                                                    print("Hello World!")
-                                                                                    print("Hello World!")
-                                                                                    print("Hello World!")
-                                                                                    print("Hello World!")
-                                                                                    print("Hello World!")
-                                                                                    print("Hello World!")
-                                                                                    print("Hello World!")
-                                                                                    print("Hello World!")
-                                                                                    print("Hello World!")
-                                                                                    print("Hello World!")
-                                                                                    print("Hello World!")
-                                                                                    print("Hello World!")
-                                                                                    print("Hello World!")
-                                                                                    print("Hello World!")
-                                                                                    print("Hello World!")
-
+                                                                                    z = 1
+                                                                                    while z < 10:
+                                                                                        print("Hello World!")
+                                                                                        z =  z + 1
                                                                                     
+                                                                                                                                       
 e = 1
 while True:
     e += 1
     pain()
-    if e > 1000:
+    if e > 100:
         break
