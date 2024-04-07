@@ -1,5 +1,12 @@
 # Hello-World
 
-I was bored :) 
 
-I don't think VSCode will show the "cool" way, use Python IDLE!
+I was bored
+
+lmao 😂😂😂
+
+it now looks like the computer works and not like absolute garbage 
+
+
+
+## 🤫🧏
